@@ -21,7 +21,7 @@ DEBUG = True
 
 LOGIN_URL = 'login'
 
-ALLOWED_HOSTS = ["178.128.41.226"]
+ALLOWED_HOSTS = ["161.35.36.37"]
 
 
 # Application definition
