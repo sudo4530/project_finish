@@ -21,7 +21,7 @@ DEBUG = True
 
 LOGIN_URL = 'login'
 
-ALLOWED_HOSTS = ["161.35.36.37"]
+ALLOWED_HOSTS = ["37.mukhammadjon.com"]
 
 
 # Application definition
@@ -67,6 +67,7 @@ TEMPLATES = [
             ],
         },
     },
+
 ]
 
 WSGI_APPLICATION = os.getenv("WSGI_APPLICATION")
